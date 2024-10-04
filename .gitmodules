@@ -1,0 +1,3 @@
+[submodule "proofreader-agent"]
+	path = proofreader-agent
+	url = https://github.com/aiengine/baseai-agents.git
